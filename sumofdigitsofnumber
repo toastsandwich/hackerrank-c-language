@@ -1,3 +1,5 @@
+//this code will help you to sum all digits of a number upto 100 digits just change the i < 6 to i < 101
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
